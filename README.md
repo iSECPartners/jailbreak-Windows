@@ -1,6 +1,9 @@
 Jailbreak (Windows)
 ===================
 
+For a newer and open-source version of these tools please see 
+https://github.com/iSECPartners/jailbreak
+
 Written by: andreas _[at]_ isecpartners.com and cclark _[at]_ isecpartners.com
 
 Jailbreak exports certificates marked as non-exportable from the Windows 
